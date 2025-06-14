@@ -21,7 +21,7 @@ Due to research showing that it is not feasible to create any kind of model to d
 
 
 ## Content of the repository:
-  - **Python (Flask)** - This runs the machine learning model and the pipeline. It also uses the Streamlit library / web framework to create the single page application that serves as the GUI for the pipeline
+  - **Python (Streamlit)** - This runs the machine learning model and the pipeline. It also uses the Streamlit library / web framework to create the single page application that serves as the GUI for the pipeline
 
 ---
 ## NoteBooks
