@@ -20,7 +20,7 @@ Due to research showing that it is not feasible to create any kind of model to d
 -	**Aim 3** - Create a GUI for the pipeline tool
 
 
-### Content of the repository:
+## Content of the repository:
   - **Python (Flask)** - This runs the machine learning model and the pipeline. It also uses the Streamlit library / web framework to create the single page application that serves as the GUI for the pipeline
 
 ---
