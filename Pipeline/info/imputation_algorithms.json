@@ -1,0 +1,17 @@
+{
+    "Mean / Mode / Median Imputation": "In mean / mode / median imputation missing categorical values are replaced with the mode of the observed values, whilst missing continuous numerical values are replaced with the mean or median of the observed values.",
+
+    "LOCF Imputation": "In last observation carried forward imputation the current missing data point to be addressed is replaced with the value of the last observation whose data point of this variable is not missing",
+
+    "NOCF Imputation": "In next observation carried forwards imputation the current missing data point to be addressed is replaced with the value of the next observation whose data point of this variable is not missing",
+
+    "Regression Imputation": "In regression imputation missing values are replaced by using a regression models estimation. The regression model is estimated using the observed values of the dependent variable (target value) Y and the independent variables. The model can be used to predict values for missing cases of Y based on the records dependent variables",
+
+    "MICE imputation": "In multivariate imputation by chained equations multiple datasets are created through a series of regression based models that are iteratively fit to the missing value variable (using the observed data) until convergence of the imputed values with the initial guesses (mean / mode / median imputation) Finally the multiple datasets are combined (usually giving an average of the imputed values) helping incorporate uncertainty introduced by the missingness of the data",
+
+    "MissForest Imputation": "In MissForest imputation a random forest model is trained on the observed data inside the missing value variables (gives predictions for the missing values and replaces / updates them inside the dataset) until convergence of the imputed values with the initial guesses (mean / mode / median imputation) ",
+
+    "Bayesian Imputation": "In Bayesian imputation we utilize Bayesian inference to generate a probabilistic model to estimate the missing values. In Bayesian statistics you have a prior distribution which represents beliefs about the missing values based on the features of the observed data (such as distribution). The posterior distribution is created by combining the likelihood function (described how the observed data is distributed according to the model, given its model parameters) Many values are drawn from the posterior distribution and combined to give the imputed value.",
+
+    "kNN Imputation": "In kNN imputation we identify the k-nearest neighbours of the missing data point based on a similarity metric of other features and the missing value is then replaced with Mean / Median / Mode imputation of that set. We calculate the distance (usually using distance Euclidean distance or Pearson correlation) between the missing data point and all data points with the observed variable and choose the k closest."
+}

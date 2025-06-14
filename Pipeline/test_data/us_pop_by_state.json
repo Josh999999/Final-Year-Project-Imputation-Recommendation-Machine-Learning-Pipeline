@@ -1,0 +1,52 @@
+{"rank":1.0,"state":"California","state_code":"CA","2020_census":39538223,"percent_of_total":0.1191}
+{"rank":2.0,"state":"Texas","state_code":"TX","2020_census":29145505,"percent_of_total":0.0874}
+{"rank":3.0,"state":"Florida","state_code":"FL","2020_census":21538187,"percent_of_total":null}
+{"rank":4.0,"state":"New York","state_code":"NY","2020_census":20201249,"percent_of_total":0.0586}
+{"rank":5.0,"state":"Pennsylvania","state_code":"PA","2020_census":13002700,"percent_of_total":0.0386}
+{"rank":6.0,"state":"Illinois","state_code":"IL","2020_census":12801989,"percent_of_total":null}
+{"rank":7.0,"state":"Ohio","state_code":"OH","2020_census":11799448,"percent_of_total":0.0352}
+{"rank":8.0,"state":"Georgia","state_code":"GA","2020_census":10711908,"percent_of_total":0.032}
+{"rank":9.0,"state":"North Carolina","state_code":"NC","2020_census":10439388,"percent_of_total":0.0316}
+{"rank":10.0,"state":"Michigan","state_code":"MI","2020_census":10077331,"percent_of_total":0.0301}
+{"rank":11.0,"state":"New Jersey","state_code":"NJ","2020_census":9288994,"percent_of_total":0.0268}
+{"rank":12.0,"state":"Virginia","state_code":"VA","2020_census":8631393,"percent_of_total":0.0257}
+{"rank":13.0,"state":"Washington","state_code":"WA","2020_census":7705281,"percent_of_total":0.0229}
+{"rank":14.0,"state":"Arizona","state_code":"AZ","2020_census":7151502,"percent_of_total":0.0219}
+{"rank":15.0,"state":"Massachusetts","state_code":"MA","2020_census":7029917,"percent_of_total":0.0209}
+{"rank":16.0,"state":"Tennessee","state_code":"TN","2020_census":6910840,"percent_of_total":0.0206}
+{"rank":17.0,"state":"Indiana","state_code":"IN","2020_census":6785528,"percent_of_total":0.0203}
+{"rank":18.0,"state":"Maryland","state_code":"MD","2020_census":6177224,"percent_of_total":0.0185}
+{"rank":19.0,"state":"Missouri","state_code":"MO","2020_census":6154913,"percent_of_total":0.0182}
+{"rank":20.0,"state":"Wisconsin","state_code":"WI","2020_census":5893718,"percent_of_total":0.0175}
+{"rank":21.0,"state":"Colorado","state_code":"CO","2020_census":5773714,"percent_of_total":0.0174}
+{"rank":22.0,"state":"Minnesota","state_code":"MN","2020_census":5706494,"percent_of_total":0.017}
+{"rank":23.0,"state":"South Carolina","state_code":"SC","2020_census":5118425,"percent_of_total":0.0155}
+{"rank":24.0,"state":"Alabama","state_code":"AL","2020_census":5024279,"percent_of_total":null}
+{"rank":25.0,"state":"Louisiana","state_code":"LA","2020_census":4657757,"percent_of_total":0.014}
+{"rank":26.0,"state":"Kentucky","state_code":"KY","2020_census":4505836,"percent_of_total":0.0135}
+{"rank":27.0,"state":"Oregon","state_code":"OR","2020_census":4237256,"percent_of_total":null}
+{"rank":28.0,"state":"Oklahoma","state_code":"OK","2020_census":3959353,"percent_of_total":0.0119}
+{"rank":29.0,"state":"Connecticut","state_code":"CT","2020_census":3605944,"percent_of_total":0.0107}
+{"rank":30.0,"state":"Utah","state_code":"UT","2020_census":3205958,"percent_of_total":0.0097}
+{"rank":31.0,"state":"Iowa","state_code":"IA","2020_census":3271616,"percent_of_total":0.0095}
+{"rank":32.0,"state":"Nevada","state_code":"NV","2020_census":3104614,"percent_of_total":0.0093}
+{"rank":33.0,"state":"Arkansas","state_code":"AR","2020_census":3011524,"percent_of_total":0.0091}
+{"rank":34.0,"state":"Mississippi","state_code":"MS","2020_census":2961279,"percent_of_total":0.009}
+{"rank":35.0,"state":"Kansas","state_code":"KS","2020_census":2937880,"percent_of_total":0.0088}
+{"rank":36.0,"state":"New Mexico","state_code":"NM","2020_census":2117522,"percent_of_total":0.0063}
+{"rank":37.0,"state":"Nebraska","state_code":"NE","2020_census":1961504,"percent_of_total":0.0058}
+{"rank":38.0,"state":"Idaho","state_code":"ID","2020_census":1839106,"percent_of_total":0.0054}
+{"rank":39.0,"state":"West Virginia","state_code":"WV","2020_census":1793716,"percent_of_total":0.0054}
+{"rank":40.0,"state":"Hawaii","state_code":"HI","2020_census":1455271,"percent_of_total":0.0043}
+{"rank":41.0,"state":"New Hampshire","state_code":"NH","2020_census":1377529,"percent_of_total":null}
+{"rank":42.0,"state":"Maine","state_code":"ME","2020_census":1362359,"percent_of_total":0.0041}
+{"rank":43.0,"state":"Rhode Island","state_code":"RI","2020_census":1097379,"percent_of_total":0.0032}
+{"rank":44.0,"state":"Montana","state_code":"MT","2020_census":1084225,"percent_of_total":0.0032}
+{"rank":45.0,"state":"Delaware","state_code":"DE","2020_census":989948,"percent_of_total":0.0029}
+{"rank":46.0,"state":"South Dakota","state_code":"SD","2020_census":886667,"percent_of_total":0.0027}
+{"rank":47.0,"state":"North Dakota","state_code":"ND","2020_census":779094,"percent_of_total":0.0023}
+{"rank":48.0,"state":"Alaska","state_code":"AK","2020_census":733391,"percent_of_total":0.0022}
+{"rank":49.0,"state":"DC","state_code":"DC","2020_census":689545,"percent_of_total":null}
+{"rank":50.0,"state":"Vermont","state_code":"VT","2020_census":643077,"percent_of_total":0.0019}
+{"rank":51.0,"state":"Wyoming","state_code":"WY","2020_census":576851,"percent_of_total":0.0017}
+{"rank":null,"state":"Total U.S.","state_code":"Total","2020_census":331449281,"percent_of_total":null}

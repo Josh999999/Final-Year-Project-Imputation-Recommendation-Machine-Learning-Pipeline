@@ -1,0 +1,5 @@
+{
+    "MCAR": "Missing completely at random (MCAR) datasets values are missing with no reasoning or intentional exclusion and any data point is as likely to be missing as any other",
+    "MAR": "Missing at random (MCAR) datasets have features (columns) who's data points are more likely to go missing than others. The disparity in likelihood of exclusion can occur for multiple reasons.",
+    "MNAR": "Missing not at random (MNAR) datasets have data points that have not been filled in purposefully. This is almost always due to some limitation in the data gather process."
+}

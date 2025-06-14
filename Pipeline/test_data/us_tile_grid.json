@@ -1,0 +1,51 @@
+{"code":"AL","name":"Alabama","row":null,"column":6}
+{"code":"AK","name":"Alaska","row":null,"column":0}
+{"code":"AZ","name":"Arizona","row":2.0,"column":2}
+{"code":"AR","name":"Arkansas","row":2.0,"column":5}
+{"code":"CA","name":"California","row":null,"column":0}
+{"code":"CO","name":"Colorado","row":3.0,"column":3}
+{"code":"CT","name":"Connecticut","row":null,"column":10}
+{"code":"DC","name":"District of Columbia","row":null,"column":8}
+{"code":"DE","name":"Delaware","row":3.0,"column":10}
+{"code":"FL","name":"Florida","row":null,"column":7}
+{"code":"GA","name":"Georgia","row":1.0,"column":7}
+{"code":"HI","name":"Hawaii","row":0.0,"column":0}
+{"code":"ID","name":"Idaho","row":4.0,"column":2}
+{"code":"IL","name":"Illinois","row":null,"column":6}
+{"code":"IN","name":"Indiana","row":4.0,"column":7}
+{"code":"IA","name":"Iowa","row":4.0,"column":5}
+{"code":"KS","name":"Kansas","row":null,"column":4}
+{"code":"KY","name":"Kentucky","row":3.0,"column":6}
+{"code":"LA","name":"Louisiana","row":null,"column":4}
+{"code":"ME","name":"Maine","row":7.0,"column":11}
+{"code":"MD","name":"Maryland","row":3.0,"column":9}
+{"code":"MA","name":"Massachusetts","row":null,"column":11}
+{"code":"MI","name":"Michigan","row":null,"column":7}
+{"code":"MN","name":"Minnesota","row":null,"column":5}
+{"code":"MS","name":"Mississippi","row":null,"column":5}
+{"code":"MO","name":"Missouri","row":null,"column":5}
+{"code":"MT","name":"Montana","row":null,"column":2}
+{"code":"NE","name":"Nebraska","row":null,"column":4}
+{"code":"NV","name":"Nevada","row":null,"column":1}
+{"code":"NH","name":"New Hampshire","row":null,"column":10}
+{"code":"NJ","name":"New Jersey","row":null,"column":10}
+{"code":"NM","name":"New Mexico","row":null,"column":3}
+{"code":"NY","name":"New York","row":5.0,"column":9}
+{"code":"NC","name":"North Carolina","row":2.0,"column":8}
+{"code":"ND","name":"North Dakota","row":5.0,"column":3}
+{"code":"OH","name":"Ohio","row":null,"column":8}
+{"code":"OK","name":"Oklahoma","row":2.0,"column":4}
+{"code":"OR","name":"Oregon","row":4.0,"column":1}
+{"code":"PA","name":"Pennsylvania","row":null,"column":9}
+{"code":"RI","name":"Rhode Island","row":null,"column":11}
+{"code":"SC","name":"South Carolina","row":1.0,"column":8}
+{"code":"SD","name":"South Dakota","row":null,"column":4}
+{"code":"TN","name":"Tennessee","row":2.0,"column":6}
+{"code":"TX","name":"Texas","row":1.0,"column":3}
+{"code":"UT","name":"Utah","row":3.0,"column":2}
+{"code":"VT","name":"Vermont","row":6.0,"column":9}
+{"code":"VA","name":"Virginia","row":null,"column":7}
+{"code":"WA","name":"Washington","row":null,"column":1}
+{"code":"WV","name":"West Virginia","row":null,"column":7}
+{"code":"WI","name":"Wisconsin","row":5.0,"column":6}
+{"code":"WY","name":"Wyoming","row":null,"column":3}
